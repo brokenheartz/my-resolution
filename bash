@@ -6,6 +6,8 @@ MY RESOLUTION REGARDING LINUX
 
 3. Learn Linux Kernel
 
-4. Learn Linux Hardware
+4. Learn Linux Networking
 
-5. Create Linux Distro
+5. Learn Linux Security
+
+6. Create Linux Distro
