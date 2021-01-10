@@ -9,3 +9,5 @@ MY RESOLUTION REGARDING LINUX
 4. Learn Linux Networking
 
 5. Learn Linux Security
+
+6. Create Linux Distro
