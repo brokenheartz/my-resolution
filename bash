@@ -4,4 +4,4 @@ MY RESOLUTION REGARDING LINUX
 
 2. Learn Linux Shell Scripting
 
-3.
+3. Learn Linux Kernel
